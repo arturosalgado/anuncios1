@@ -12,8 +12,11 @@
             <h1>
 
                 Hola Mundo
-                <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
-            </h1>
+                </h1>
+            <p>
+
+                <asp:FileUpload ID="FileUpload1" runat="server" />
+            </p>
     </div>
     </form>
 </body>
